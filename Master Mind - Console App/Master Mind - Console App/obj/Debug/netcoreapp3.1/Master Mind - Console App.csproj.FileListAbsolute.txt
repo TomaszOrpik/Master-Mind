@@ -1,0 +1,13 @@
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\bin\Debug\netcoreapp3.1\Master Mind - Console App.exe
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\obj\Debug\netcoreapp3.1\Master Mind - Console App.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\obj\Debug\netcoreapp3.1\Master Mind - Console App.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\obj\Debug\netcoreapp3.1\Master Mind - Console App.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\bin\Debug\netcoreapp3.1\Master Mind - Console App.deps.json
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\bin\Debug\netcoreapp3.1\Master Mind - Console App.runtimeconfig.json
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\bin\Debug\netcoreapp3.1\Master Mind - Console App.runtimeconfig.dev.json
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\bin\Debug\netcoreapp3.1\Master Mind - Console App.dll
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\bin\Debug\netcoreapp3.1\Master Mind - Console App.pdb
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\obj\Debug\netcoreapp3.1\Master Mind - Console App.csproj.CopyComplete
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\obj\Debug\netcoreapp3.1\Master Mind - Console App.dll
+C:\Users\Tomek\Desktop\C#\Master Mind - Console App\Master Mind - Console App\obj\Debug\netcoreapp3.1\Master Mind - Console App.pdb

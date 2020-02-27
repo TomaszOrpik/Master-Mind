@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Master Mind - WPF App/1.0.0": {
+        "runtime": {
+          "Master Mind - WPF App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Master Mind - WPF App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

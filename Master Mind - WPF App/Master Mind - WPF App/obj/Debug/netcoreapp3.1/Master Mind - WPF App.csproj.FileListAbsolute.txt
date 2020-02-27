@@ -1,0 +1,19 @@
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App_MarkupCompile.cache
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\bin\Debug\netcoreapp3.1\Master Mind - WPF App.exe
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\bin\Debug\netcoreapp3.1\Master Mind - WPF App.deps.json
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\bin\Debug\netcoreapp3.1\Master Mind - WPF App.runtimeconfig.json
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\bin\Debug\netcoreapp3.1\Master Mind - WPF App.runtimeconfig.dev.json
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\bin\Debug\netcoreapp3.1\Master Mind - WPF App.dll
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\bin\Debug\netcoreapp3.1\Master Mind - WPF App.pdb
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App_MarkupCompile.lref
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App.g.resources
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App.dll
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\Master Mind - WPF App.pdb
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\WindowGame.g.cs
+C:\Users\Tomek\Desktop\C#\Master Mind - WPF App\Master Mind - WPF App\obj\Debug\netcoreapp3.1\WindowGame.baml

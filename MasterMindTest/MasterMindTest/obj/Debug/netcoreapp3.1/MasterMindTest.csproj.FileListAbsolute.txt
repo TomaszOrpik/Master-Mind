@@ -1,0 +1,11 @@
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\bin\Debug\netcoreapp3.1\MasterMindTest.exe
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\bin\Debug\netcoreapp3.1\MasterMindTest.deps.json
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\bin\Debug\netcoreapp3.1\MasterMindTest.runtimeconfig.json
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\bin\Debug\netcoreapp3.1\MasterMindTest.runtimeconfig.dev.json
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\bin\Debug\netcoreapp3.1\MasterMindTest.dll
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\bin\Debug\netcoreapp3.1\MasterMindTest.pdb
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\obj\Debug\netcoreapp3.1\MasterMindTest.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\obj\Debug\netcoreapp3.1\MasterMindTest.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\obj\Debug\netcoreapp3.1\MasterMindTest.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\obj\Debug\netcoreapp3.1\MasterMindTest.dll
+C:\Users\Tomek\Desktop\C#\MasterMindTest\MasterMindTest\obj\Debug\netcoreapp3.1\MasterMindTest.pdb
